@@ -109,7 +109,7 @@ impl Station {
         if self.is_interstellar {
             5
         } else {
-            3
+            4
         }
     }
 
